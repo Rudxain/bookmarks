@@ -14,7 +14,7 @@
 
 ### Screen/Display tests
 
-- [Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
+- [Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester) (for Android)
 - [Photo Friday calibration](https://www.photofriday.com/info/calibrate)
 - [Lagom LCD tests](http://www.lagom.nl/lcd-test)
 - [TestUFO / Blur Busters](https://www.testufo.com)
