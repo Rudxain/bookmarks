@@ -1,5 +1,7 @@
 # ⭐
 
+These aren't my actual bookmarks/favorites. This list only contains non-redundant items, that is, URLs that I haven't linked anywhere else
+
 ## Documentation
 
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
