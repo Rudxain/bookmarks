@@ -1,6 +1,6 @@
 # ⭐
 
-These aren't my actual bookmarks/favorites. This list only contains non-redundant items, that is, URLs that I haven't linked anywhere else
+These aren't my actual bookmarks/favorites. This list only contains URLs that I haven't linked anywhere else
 
 ## Documentation
 
