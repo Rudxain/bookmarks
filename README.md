@@ -2,8 +2,8 @@
 
 ## Documentation
 
-- [List of built-in CLI utilities in Android (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for Android shell scripts. This documentation is so obscure that it's hard to find on Google
-- [MKSH manual](http://www.mirbsd.org/htman/i386/man1/mksh.htm). Same as above, but **more obscure**
+- [List of built-in CLI utilities in Android (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for Android shell scripts
+- [MKSH manual](http://www.mirbsd.org/htman/i386/man1/mksh.htm). These docs are so obscure, that they're hard to find on any search engine
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book)
 
 ## Tools
