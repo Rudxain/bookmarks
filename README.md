@@ -1,6 +1,6 @@
 # ⭐
 
-These aren't my actual bookmarks/favorites. This list only contains URLs that I haven't linked anywhere else
+This list only contains URLs that I haven't linked anywhere else
 
 ## Documentation
 
@@ -26,3 +26,7 @@ These aren't my actual bookmarks/favorites. This list only contains URLs that I 
 
 - [Windows 93](https://www.windows93.net)
 - [YAML bad](https://noyaml.com)
+
+### ByteBeat
+
+> to-do
