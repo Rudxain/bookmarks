@@ -29,4 +29,4 @@ This list only contains URLs that I haven't linked anywhere else
 
 ### ByteBeat
 
-> to-do
+https://dollchan.net/bytebeat
