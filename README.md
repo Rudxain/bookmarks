@@ -31,4 +31,5 @@ This list only contains URLs that I haven't linked anywhere else
 
 - https://dollchan.net/bytebeat
 - https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html
+- https://sarpnt.github.io/bytebeat-composer
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com)
