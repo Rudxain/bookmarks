@@ -27,6 +27,8 @@ This list only contains URLs that I haven't linked anywhere else
 - [Windows 93](https://www.windows93.net)
 - [YAML bad](https://noyaml.com)
 
-### ByteBeat
+## Music
 
-https://dollchan.net/bytebeat
+- https://dollchan.net/bytebeat
+- https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com)
