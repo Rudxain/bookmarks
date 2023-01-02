@@ -34,6 +34,7 @@ This list only contains URLs that I haven't linked anywhere else
 
 ## Fun
 
+- [XKCD](https://xkcd.com)
 - [Windows 93](https://windows93.net)
 - [YAML bad](https://noyaml.com)
 
