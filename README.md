@@ -43,6 +43,7 @@ This list only contains URLs that I haven't linked anywhere else
 ## Fun
 
 - [XKCD](https://xkcd.com)
+- [Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
 - [Windows 93](https://windows93.net)
 - [YAML bad](https://noyaml.com)
 - [Will You Press The Button?](https://willyoupressthebutton.com)
