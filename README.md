@@ -24,7 +24,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [List of built-in CLI utilities in Android (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for Android shell scripts
 - [MKSH manual](http://mirbsd.org/htman/i386/man1/mksh.htm). These docs are so obscure, that they're hard to find on any search engine
 - [Android bloat list](https://raw.githubusercontent.com/0x192/universal-android-debloater/main/resources/assets/uad_lists.json)
-- [Official Linux CPU governors](https://www.kernel.org/doc/html/latest/admin-guide/pm/cpufreq.html#generic-scaling-governors)
+- [Official Linux CPU governors](https://www.kernel.org/doc/html/latest/admin-guide/pm/cpufreq.html#generic-scaling-governors). Weirdly enough, `Interactive` is nowhere to be found.
 - [Community CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168)
 - [Llamalab Automate planned-features to-do list](https://docs.google.com/spreadsheets/u/0/d/163JyjXq3e4vWxb2mIaM2e4hObrYH6O4uIAfacCZE70c/htmlview) ([source](https://groups.google.com/g/automate-user/c/ieFxvzSiWkA/m/KubwQ4Q2AgAJ)). I use this to avoid opening duplicate issues on [the forum](https://groups.google.com/g/automate-user)
 
