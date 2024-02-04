@@ -30,7 +30,7 @@
 - [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH Pages.
 - [Wayback Machine](https://archive.org/web)
 - [GD web client](https://gdbrowser.com)
-- [Less-bloated private clients for many domains](https://codeberg.org/PrivacyDev/DPR-addon/src/branch/master/README.md), which is missing these [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances).
+- [Less-bloated private clients for many domains](https://codeberg.org/PrivacyDev/DPR-addon/src/branch/master/README.md#redirects), which is missing these [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances).
 - [Most active GH users in DR](https://committers.top/dominican_republic_public).
 - [Wasm Audacity](https://wavacity.com)
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
