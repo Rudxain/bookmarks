@@ -57,7 +57,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 "As-is" are apps usable as-is, for browsers. "Indirect" are non cross-platform software and hardware.
 - As-is
 	- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
-	- [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH-Pages.
+	- [Web repo previewer](https://htmlpreview.github.io). For repositories that don't use GH-Pages.
 	- [Wayback Machine](https://archive.org/web)
 	- [GD web client](https://gdbrowser.com)
 	- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
@@ -85,7 +85,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [🔀Useless 🌐Websites](https://theuselessweb.com)
 - [🖱️Click ×4](https://clickclickclick.click)
 - [ΔR](https://deltarune.com). The website has some easter-eggs (even after Spamton Sweepstakes) that will be updated when new chapters release.
-- [Evolutionary Prisoner's Dilemma game](http://ncase.me/trust)
+- [Evolutionary Prisoner's Dilemma game](https://ncase.me/trust)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
 - [Better than Diep.io](https://arras.io)
 - [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official URL?
