@@ -24,23 +24,18 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [How extensions of Real numbers relate to geometric curvatures](https://reddit.com/r/math/comments/7g82yv/splitcomplex_numbers/dqi8bl1). alt: Complex = Circular (+ [curv](https://en.wikipedia.org/wiki/Curvature)), Dual = Euclidean (0 curv), Split = Hyperbolic (- curv).
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
 - [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html)
-- [Hamming Weight indexing](https://stackoverflow.com/a/13614164)
 - [**NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ**](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - My fav argument against [Py's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is:
 	- > > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
 		>
 		> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 - [⚠️YAML bad❌](https://noyaml.com)
-- [gluegle gets 🔥roasted in XSS privacy policy!](https://www.jwz.org/xscreensaver/google.html)
-- ["Privacy is the right to be imperfect" and "Data is the new ~gold~ oil"](https://www.socialcooling.com)
 - [Web Bloat Crisis](https://idlewords.com/talks/website_obesity.htm)
 - [JS bloat (2024)](https://tonsky.me/blog/js-bloat)
-- [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
-- [Digital chains and modern feudalism](https://gavinhoward.com/2023/11/your-loved-ones-are-prisoners-and-you-made-the-chain/). **WARNING:** deep rabbit hole!
+- [Enshittification is everywhere](https://consumerrights.wiki/w/Enshittification)
 - Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
 - [Why abusers legitimately don't know what they did wrong](https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html)
-- Likely, [the most comprehensive debunking of theistic religions](https://www.whywontgodhealamputees.com)
-- [Gender and sex are complicated](https://www.scientificamerican.com/blog/sa-visual/visualizing-sex-as-a-spectrum). [Further info](https://www.nature.com/articles/518288a).
+- Likely, [the most comprehensive debunking of theistic religions](https://web.archive.org/web/20250527070909/https://whywontgodhealamputees.com/)
 - [El 💯mejor poema de Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate). [The Rust Book agrees with this](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#creating-custom-types-for-validation) (AKA [`newtype` pattern](https://doc.rust-lang.org/rust-by-example/generics/new_types.html)). See also [_"Ghosts of Departed Proofs"_](https://kataskeue.com/gdp.pdf).
 - [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
