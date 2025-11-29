@@ -3,6 +3,41 @@ Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequ
 
 To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages domain or my GH Profile-`README`, they'll be removed from this page.
 
+## TO-DO
+- [The coming civil war over general purpose computing - Boing Boing](https://boingboing.net/2012/08/23/civilwar.html)
+- https://www.gnu.org/philosophy/right-to-read
+- https://godsandgoods.substack.com/p/the-enshittification-of-transcendental
+- https://www.zachaysan.com/writing/2017-12-30-zero-width-characters
+- Dotpe leak: https://web.archive.org/web/20240923081639/https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at
+- [The hi-res user experience](https://web.archive.org/web/20250911131755/https://headrush.typepad.com/creating_passionate_users/2005/12/the_hires_user_.html)
+- [In the economy of user effort, be a bargain, not a scam](https://lea.verou.me/blog/2025/user-effort)
+- https://woltman.com/gnome-bad
+- https://esolangs.org/wiki/Brian_%26_Chuck
+- ["Lambda Calculus in 383 Bytes" (Sector-λ)](https://justine.lol/lambda). The blog-post is beyond awesome!
+- ["C ABI" is a lie](https://faultlore.com/blah/c-isnt-a-language)
+- [Counterexamples in Type Systems](https://counterexamples.org/)
+- https://gavinhoward.com/2024/05/what-rust-got-wrong-on-formal-verification
+- https://gavinhoward.com/2024/09/rewriting-rust-a-response
+- [Building the fastest Lua interpreter.. automatically! (Deegen)](https://sillycross.github.io/2022/11/22/2022-11-22)
+- https://gavinhoward.org/2023/06/let-me-cure-your-impostor-syndrome
+- https://gwern.net/computers#computers-all-the-way-down
+- [Networks all the way down](https://gwern.net/doc/www/fgiesen.wordpress.com/81a7f5e44ec4e9a55df9bb2dbd5535302ba06acb.html)
+- https://gwern.net/correlation
+- https://gwern.net/everything
+- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- [You really don't need all that JavaScript, I promise](https://www.kryogenix.org/code/dont-need-that-js)
+- https://jakearchibald.com/2013/progressive-enhancement-still-important
+- https://jakearchibald.com/2025/give-footnotes-the-boot
+- https://journal.stuffwithstuff.com/2010/11/26/the-biology-of-sloppy-code
+- https://pointersgonewild.com/2013/07/19/programming-without-text-files
+- https://www.hacklewayne.com
+- https://www.hyrumslaw.com
+- https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names
+- locale rant: https://github.com/mpv-player/mpv/commit/1e70e82baa9193f6f027338b0fab0f5078971fbe
+- ["Bidirectional Laser Tracer"](https://www.shadertoy.com/view/7tjSDh). It has diffraction!
+- [Mandelbox Sweeper by evvvvil_](https://www.shadertoy.com/view/3lyXDm)
+- https://www.piskelapp.com/
+
 ## Text
 - [UTF-8 Manifesto](https://utf8everywhere.org)
 - [Unicode is a mess because languages are a mess](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode)
@@ -10,6 +45,8 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
 - [How to ask valuable questions](https://www.catb.org/esr/faqs/smart-questions.html)
+- [How to ask good questions](https://jvns.ca/blog/good-questions)
+- [Don't ask to ask, just ask](https://dontasktoask.com)
 - ["Everyone has JS, right?"](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 - [Unobtrusive JS](https://www.w3.org/wiki/The_principles_of_unobtrusive_JavaScript)
 - [_Recursive_ RLE‽‽‽](https://liamappelbe.medium.com/the-unreasonable-effectiveness-of-run-length-encoding-0d4ab5f92802)
